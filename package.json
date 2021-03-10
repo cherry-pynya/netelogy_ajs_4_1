@@ -1,0 +1,29 @@
+{
+  "name": "netelogy_ajs_4_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherry-pynya/netelogy_ajs_4_1.git"
+  },
+  "author": "cherry-pynya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherry-pynya/netelogy_ajs_4_1/issues"
+  },
+  "homepage": "https://github.com/cherry-pynya/netelogy_ajs_4_1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1"
+  }
+}
